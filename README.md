@@ -9,6 +9,14 @@ da orientação a objetos no contexto de um jogo RPG.
 
 ##
 
+### Conceitos utilizados
+- Herança
+- Polimorfismo
+- Encapsulamento
+- Abstração
+
+##
+
 ### A saída do projeto mostra os dados do personagens, como seus atributos e caracteristicas.
 ![Img1](https://github.com/LucasRodriguesdaSilva/projeto01/blob/main/img/output.png)
 
