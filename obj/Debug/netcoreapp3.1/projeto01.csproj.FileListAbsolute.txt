@@ -1,0 +1,13 @@
+C:\Users\lucas\Documents\dotnet_bootcamp\projeto01\bin\Debug\netcoreapp3.1\projeto01.exe
+C:\Users\lucas\Documents\dotnet_bootcamp\projeto01\bin\Debug\netcoreapp3.1\projeto01.deps.json
+C:\Users\lucas\Documents\dotnet_bootcamp\projeto01\bin\Debug\netcoreapp3.1\projeto01.runtimeconfig.json
+C:\Users\lucas\Documents\dotnet_bootcamp\projeto01\bin\Debug\netcoreapp3.1\projeto01.runtimeconfig.dev.json
+C:\Users\lucas\Documents\dotnet_bootcamp\projeto01\bin\Debug\netcoreapp3.1\projeto01.dll
+C:\Users\lucas\Documents\dotnet_bootcamp\projeto01\bin\Debug\netcoreapp3.1\projeto01.pdb
+C:\Users\lucas\Documents\dotnet_bootcamp\projeto01\obj\Debug\netcoreapp3.1\projeto01.csprojAssemblyReference.cache
+C:\Users\lucas\Documents\dotnet_bootcamp\projeto01\obj\Debug\netcoreapp3.1\projeto01.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\dotnet_bootcamp\projeto01\obj\Debug\netcoreapp3.1\projeto01.AssemblyInfo.cs
+C:\Users\lucas\Documents\dotnet_bootcamp\projeto01\obj\Debug\netcoreapp3.1\projeto01.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\dotnet_bootcamp\projeto01\obj\Debug\netcoreapp3.1\projeto01.dll
+C:\Users\lucas\Documents\dotnet_bootcamp\projeto01\obj\Debug\netcoreapp3.1\projeto01.pdb
+C:\Users\lucas\Documents\dotnet_bootcamp\projeto01\obj\Debug\netcoreapp3.1\projeto01.genruntimeconfig.cache
