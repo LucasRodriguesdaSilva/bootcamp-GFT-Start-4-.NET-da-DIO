@@ -3,7 +3,7 @@
 ### Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#
 
 <p>
-Este projeto é bastante interresante, pois mostra na prática os pilares
+Este projeto é bastante interessante, pois mostra na prática os pilares
 da orientação a objetos no contexto de um jogo RPG.
 </p>
 
